@@ -24,9 +24,16 @@ To start, we need to install the command line utility provided by GatsbyJS to qu
 ---
 # Notes
 
-WIP
+# WIP
 
 https://medium.com/crowdbotics/how-to-build-your-own-blog-from-scratch-with-gatsbyjs-graphql-react-and-markdown-78352c367bd1 
+
+https://www.gatsbyjs.com/docs/reference/config-files/actions/
+
+https://www.gatsbyjs.com/docs/
+
+https://zen.unit.ms/
+
 
 The content of these two Markdown files will be our first two blog posts. The block surrounded in dashes is referred to as frontmatter, and the contents of the block can be used to inject React components with the specified data, e.g. path, date, title, tags etc.
 
